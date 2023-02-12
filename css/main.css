@@ -2,9 +2,12 @@
     text-align: right;
 }
 .nav-spacing {
-margin-left: 10px;
+    margin-left: 10px;
 }
 .nav-item {
-text-decoration: none;
-color: blue;
+    text-decoration: none;
+    color: blue;
+}
+.image-link {
+    text-decoration: none;
 }
